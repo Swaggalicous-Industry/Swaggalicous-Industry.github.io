@@ -6,7 +6,7 @@ Art Shop Website
 
 [ ]Finish the bootstrap engine setup.
 
-[ ]Get started on the website design.
+[X]Get started on the website design.
 
 [ ]Add art to the website.
 

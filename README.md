@@ -4,7 +4,7 @@ Art Shop Website
 
 [ ]Set up the custom domain.
 
-[ ]Finish the bootstrap engine setup.
+[X]Finish the bootstrap engine setup.
 
 [X]Get started on the website design.
 
@@ -12,6 +12,6 @@ Art Shop Website
 
 [ ]Link the shop with Paypal.
 
-[ ]Add art folders and libraries.
+[X]Add art folders and libraries.
 
 [ ]Finish miscellaneous stuff.

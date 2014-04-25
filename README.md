@@ -8,6 +8,8 @@ Art Shop Website
 
 [X]Get started on the website design.
 
+[ ]Finish subpages.
+
 [ ]Add art to the website.
 
 [ ]Link the shop with Paypal.

@@ -12,7 +12,7 @@ Art Shop Website
 
 [ ]Add art to the website.
 
-[ ]Link the shop with Paypal.
+[ ]Link the shop with Paypal and Jotform.
 
 [X]Add art folders and libraries.
 
